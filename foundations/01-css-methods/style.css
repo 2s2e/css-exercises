@@ -1,0 +1,8 @@
+div {
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
